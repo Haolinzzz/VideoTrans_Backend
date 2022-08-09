@@ -5,9 +5,9 @@ compatibility_date = "2022-06-28"
 node_compat = true
 
 [vars]
-AIRTABLE_API_KEY = "keycxjZQ8F2nzh3Uu"
-AIRTABLE_BASE_ID = "appbBlzbiABwmEpy3"
-FILESTACK_API_KEY = "A0b6I9jrFTVmNuaC1MFamz"
-ASSEMBLY_API_TOKEN = "bf93381e22ec45ec85d7615223980f10"
+AIRTABLE_API_KEY = ""
+AIRTABLE_BASE_ID = ""
+FILESTACK_API_KEY = ""
+ASSEMBLY_API_TOKEN = ""
 
 
